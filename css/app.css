@@ -27,3 +27,8 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut_500.png");
 #home_components { margin-top: 50px;
                     padding-top: 25px;
 }
+.content h4 { margin-bottom: 0px;
+                color: #5C845D;
+}
+.content p { font-weight: bold;
+}
