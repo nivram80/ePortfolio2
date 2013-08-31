@@ -4,11 +4,11 @@ nav.top-bar { margin-bottom: 0px;
 
 /* HOMEPAGE */
 
-header#homepage.homeimage { background-image: url("../img/mc_1922_cut_500.png");
+header#homepage.homeimage { background-image: url("../img/mc_1922_cut.png");
                             background-color: #5C845D;
                             background-position: left bottom;
                             background-repeat: no-repeat;
-                            padding: 0 0 235px;
+                            padding: 0 0 100px;
                             border-bottom: 25px solid #111111;
 }
 #homepage h1 { padding-top: 100px;
@@ -30,6 +30,6 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut_500.png");
 .content h4 { margin-bottom: 0px;
                 color: #5C845D;
 }
-.content p { /*font-weight: bold;*/
+.content p { font-weight: bold;
             font-size: .75em;
 }
