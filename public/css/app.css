@@ -8,7 +8,7 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut.png");
                             background-color: #5C845D;
                             background-position: left bottom;
                             background-repeat: no-repeat;
-                            padding: 0 0 100px;
+                            padding: 0 0 30px;
                             border-bottom: 25px solid #111111;
 }
 #homepage h1 { padding-top: 100px;
