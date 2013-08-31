@@ -30,5 +30,6 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut_500.png");
 .content h4 { margin-bottom: 0px;
                 color: #5C845D;
 }
-.content p { font-weight: bold;
+.content p { /*font-weight: bold;*/
+            font-size: .75em;
 }
