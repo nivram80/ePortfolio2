@@ -28,14 +28,10 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut.png");
 #home_components { margin-top: 50px;
                     padding-top: 25px;
 }
-.title a { font-size: 1.4375em;
-}
 .content h4 { margin-bottom: 0px;
                 color: #5C845D;
                 padding-top: 20px;
 }
 .content p { font-weight: bold;
             font-size: .75em;
-}
-.slideshow h4 { 
 }
