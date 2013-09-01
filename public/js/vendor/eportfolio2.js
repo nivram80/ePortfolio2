@@ -6,5 +6,11 @@ $(document).ready(function() {
 		scrolling : 'no'
 	}); // end fancybox
 	$('a[href^="http://"]').attr('target','_blank');
-	$('a[href^="https://"]').attr('target','_blank');
+	$('a[href^="https://"]').attr('target','_blank');  
 }); // end ready
+/*$(document).foundation(
+	'orbit', {
+			bullets: false, 
+			timer_speed: 500, 
+			animation_speed: 5000
+	});
