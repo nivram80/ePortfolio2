@@ -35,6 +35,10 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut.png");
 .content p { font-weight: bold;
             font-size: .75em;
 }
+.twitter { height: 100%;
+}
+.experience { margin-top: 25px;
+}
 .pricing-table .title { color: #5C845D;
 }
 footer { background-color: #111;
