@@ -47,6 +47,7 @@ footer img { padding-right: 25px;
 .copyright { color: #fff;
             font-size: 0.8125em;
             text-align: right;
+            padding-bottom: 10px;
 }
 
 @media only screen and (max-width: 767px) {
