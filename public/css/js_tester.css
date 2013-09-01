@@ -1,0 +1,25 @@
+.wrapper { width: 70%;
+						margin-left: auto;
+						margin-right: auto;
+}
+.popout { width: 410px;
+					height: 300px;
+					position: absolute;
+					left: -385px;
+					top: 25%;
+					color: #fff;
+					background-color: #1f5809;
+					border-top: 1px solid #000;
+					border-right: 1px solid #000;
+					border-bottom: 1px solid #000;
+					border-radius: 10px;
+					padding-left: 25px;
+}
+.popout img { float: right;
+}
+.iframe { float: right;
+					margin-left: 10px;
+}
+.iframe img { border: 1px solid #000;
+							box-shadow: 3px 3px 3px #888;
+}
