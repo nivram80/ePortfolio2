@@ -6,5 +6,5 @@ $(document).ready(function() {
 		scrolling : 'no'
 	}); // end fancybox
 	$('a[href^="http://"]').attr('target','_blank');
-	alert('This js file is being accessed properly!');
+	$('a[href^="https://"]').attr('target','_blank');
 }); // end ready
