@@ -37,6 +37,8 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut.png");
 }
 .twitter { height: 100%;
 }
+.orbit-slide-number { color: #626262 !important;
+}
 .experience { margin-top: 25px;
 }
 .pricing-table .title { color: #5C845D;
