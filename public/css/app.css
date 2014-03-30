@@ -16,7 +16,7 @@ header#homepage.homeimage { background-image: url("../img/mc_1922_cut.png");
                 float: right;
 }
 .ocs { width: 160px;
-        margin: 50px auto 40 auto;
+        margin: 50px auto 40px auto;
 }
 .small_h1 { color: #ddd;
             font-weight: 300;
