@@ -7,4 +7,5 @@ $(document).ready(function() {
 	}); // end fancybox
 	$('a[href^="http://"]').attr('target','_blank');
 	$('a[href^="https://"]').attr('target','_blank');  
+	$('a[href^="mailto:"]').attr('target','_blank');
 }); // end ready
